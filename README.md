@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antoine-tissier-decathlon
-- 👀 I’m interested in data analysis for experimentation
-- 🌱 I’m currently learning GCP tools (Cloud Run...)
+- 👀 I’m interested in data analysis for experimentation and sustainability
+- 🌱 I’m currently working more and more with DataBricks and PySpark
 - 📫 antoine.tissier@decathlon.com
 
 <!---
