@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @antoine-tissier-decathlon
-- 👀 I’m interested in data analysis for experimentation and sustainability
-- 🌱 I’m currently working more and more with DataBricks and PySpark
+- 👀 I’m interested in decision science, experimentation and sustainability
+- 🌱 I’m currently working more and more with DataBricks, PySpark and Statsig
+- I am a member of the Center of Excellence dedicated to experimentation
 - 📫 antoine.tissier@decathlon.com
 
 <!---
